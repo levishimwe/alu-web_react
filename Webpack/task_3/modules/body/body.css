@@ -1,10 +1,4 @@
-#body-section {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-#body-section #count {
-  font-weight: bold;
-  margin-left: 10px;
-}
+#count {
+    display: inline;
+    font-weight: bold;
+  }
